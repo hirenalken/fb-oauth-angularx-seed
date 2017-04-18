@@ -1,0 +1,15 @@
+.signup-wrapper{
+    background-color: #999;
+    height:300px;
+    margin-top:150px;
+    text-align: center;
+    text-overflow: wrap;
+    overflow: auto;
+}
+
+.signup-btn{
+    position:relative;
+    top:50%;
+    /*transform: translateY(-50%) translateX(-50%);*/
+    /*left:50%;*/
+}
